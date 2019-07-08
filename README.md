@@ -46,7 +46,7 @@
     - Redundancy:
         - Definition: ![](images/redundancy_terminology.png)
     - Transactions:
-        - Definition: ![](images/transactions_terminology.png)
+        - Definition: **ACID** (Atomicity, Consistency, Isolation, Durability)![](images/transactions_terminology.png)
         - [commit_statistics](https://github.com/awslabs/amazon-redshift-utils/blob/master/src/AdminScripts/commit_stats.sql)
 
 
@@ -60,7 +60,8 @@
 - Best practices: ![](images/data_sort_best_practices.png)
 
 **ELT: Extract Transform Load**
-- [ETL/ELT](https://aws.amazon.com/mp/scenarios/bi/etl/)
+- Concepts: [ETL/ELT](https://aws.amazon.com/mp/scenarios/bi/etl/) ![](images/etl_vs_elt.png)
+- Read the [paper](docs/etl_vs_elt_aws.pdf)
 - Best Practices: ![](images/ELT_best_practices.png)
 
 **Vacuum and Analyse**
