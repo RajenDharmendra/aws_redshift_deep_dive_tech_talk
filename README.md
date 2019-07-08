@@ -60,7 +60,8 @@
 - Best practices: ![](images/data_sort_best_practices.png)
 
 **ELT: Extract Transform Load**
-- Concepts: [ETL/ELT](https://aws.amazon.com/mp/scenarios/bi/etl/) ![](images/etl_vs_elt.png)
+- Concepts: [ETL/ELT](https://aws.amazon.com/mp/scenarios/bi/etl/) 
+![](images/etl_vs_elt.png)
 - Read the [paper](docs/etl_vs_elt_aws.pdf)
 - Best Practices: ![](images/ELT_best_practices.png)
 
