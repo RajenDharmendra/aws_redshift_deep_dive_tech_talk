@@ -1,5 +1,5 @@
 
-## **AWS Serverless Analytics
+## **AWS Serverless Analytics**
 
 - **AWS Online Tech Talk**:
     - [link](https://www.youtube.com/watch?v=fORJ6y572gs)
