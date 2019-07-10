@@ -3,7 +3,7 @@
 
 - **AWS Online Tech Talk**:
     - [link](https://www.youtube.com/watch?v=fORJ6y572gs)
-    - presenter: 
+    - presenter: Ben Snively
     - Date: Oct 13, 2017
 
 - **Content**:
